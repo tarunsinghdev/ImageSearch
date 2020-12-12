@@ -1,6 +1,6 @@
 # ImageSearch
 
-Get Your App : **[ImageSearch App](https://tarunsingh56.github.io/ImageSearch/)** 
+# Get Your App : **[ImageSearch App](https://thetarunsingh.github.io/ImageSearch/)** 
 
 
 
